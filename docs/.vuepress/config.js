@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vuetest/',
+  base: '/vuepresstest/',
   title: 'vuepresstest',
   themeConfig: {
     nav: [
