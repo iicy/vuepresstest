@@ -1,6 +1,7 @@
 module.exports = {
   base: '/vuepresstest/',
   title: 'vuepresstest',
+  search: false,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
